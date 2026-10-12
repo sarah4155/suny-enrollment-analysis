@@ -25,5 +25,5 @@ Headcount enrollment by student level and student load for SUNY institutions, fr
 Python, pandas, matplotlib, Jupyter Notebook
 
 ## Files
-- `suny_enrollment_analysis.ipynb`
-- CSV data file
+- `SUNY_Enrollment_Analysis.ipynb`
+- Original CSV data file
