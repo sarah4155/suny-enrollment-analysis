@@ -1,4 +1,4 @@
-# suny-enrollment-analysis
+# SUNY-Enrollment-Analysis
 An exploratory analysis of SUNY enrollment data from 2011 to 2025 using Python, pandas, and matplotlib.
 
 ## Questions to Answer
